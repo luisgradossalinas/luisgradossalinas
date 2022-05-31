@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Work experience
 
 ![MetLife](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="60" width="60" >
 Feb 2021 – Jan 2022 | EEUU / Mexico
 
 - DataOps
