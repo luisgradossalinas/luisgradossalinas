@@ -1,5 +1,9 @@
-### Hi there 👋
-
+![Language](https://alfabetizaciondigital.fundacionesplai.org/pluginfile.php/9523/course/section/1596/python-logo-master-v3-TM.png)
+![Cloud](https://img.shields.io/badge/Cloud-Aws%20%2F%20Gcp-informational?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Airflow%20%2F%20Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
+![Containers](https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge)
+![Bd](https://img.shields.io/badge/BD-Sql%20%2F%20NoSql-yellow?style=for-the-badge)
+![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Kafka%20%2F%20Jenkins-orange?style=for-the-badge)
 <!--
 **luisgradossalinas/luisgradossalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
