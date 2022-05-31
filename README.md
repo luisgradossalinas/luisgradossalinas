@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Work experience
 
-![MetLife](https://cdn.worldvectorlogo.com/logos/metlife-1.svg =50x50)
+![MetLife](https://cdn.worldvectorlogo.com/logos/metlife-1.svg=50x50)
 
 Feb 2021 – Jan 2022 | EEUU / Mexico
 
