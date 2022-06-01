@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Work experience (last 5)
 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="20%" width="20%" >
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="15%" width="15%" >
 Feb 2022 – Now | Peru<br>
 Data Management Lead
 
@@ -95,3 +95,7 @@ Senior Data Engineer
 - IoT
 - Free
 - Azure
+
+## Post
+
+medium
