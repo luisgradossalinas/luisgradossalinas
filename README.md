@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Work experience
 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="40%" width="40%" >
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="20%" width="20%" >
 Feb 2022 – Now | Peru
 Data Management Lead
 
@@ -34,7 +34,7 @@ Data Management Lead
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="40%" width="40%" >
-Feb 2021 – Jan 2022 | EEUU / Mexico
+Feb 2021 – Jan 2022 | USA / Mexico
 Data Architect Senior
 
 - DataOps
@@ -61,3 +61,18 @@ Chapter Lead Big Data
     * Open Source : Spark, Python, Scala
 
 ---
+
+<img src="https://mma.prnewswire.com/media/1770828/Qualifacts_Logo_Registered_RGB_PrimaryColor_Logo.jpg?p=facebook" height="40%" width="40%" >
+
+Jan 2019 – Jun 2020 | USA
+Senior Data Engineer
+
+- Management of the Big Data ecosystem from a cluster on AWS (HortonWorks)
+- Shell programming in linux.
+- Technologies : 
+    * Open Source : Spark, Sqoop, Kafka, Nifi, Hive, Hadoop, Hbase
+    * DevOps : Gitlab, Jenkins
+    * Other : Talent Data Studio, Birst, Zabbix, Grafana, Oracle, Shell
+
+---
+
