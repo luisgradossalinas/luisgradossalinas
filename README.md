@@ -62,7 +62,7 @@ Chapter Lead Big Data
 
 ---
 
-<img src="https://mma.prnewswire.com/media/1770828/Qualifacts_Logo_Registered_RGB_PrimaryColor_Logo.jpg?p=facebook" height="40%" width="40%" >
+<img src="https://mma.prnewswire.com/media/1770828/Qualifacts_Logo_Registered_RGB_PrimaryColor_Logo.jpg?p=facebook" height="30%" width="30%" >
 
 Jan 2019 – Jun 2020 | USA
 Senior Data Engineer
@@ -76,3 +76,10 @@ Senior Data Engineer
 
 ---
 
+
+## Workshops
+
+- AWS
+- IoT
+- Free
+- Azure
