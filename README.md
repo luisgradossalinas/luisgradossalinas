@@ -33,7 +33,7 @@ Data Management Lead
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="40%" width="40%" >
 Feb 2021 – Jan 2022 | USA / Mexico<br>
-Data Architect Senior
+Data Architect Senior (Globant)
 
 - DataOps
 - Data Platform, Data Mesh (DDD)
@@ -98,4 +98,6 @@ Senior Data Engineer
 
 ## Post
 
-medium
+Medium
+
+(https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
