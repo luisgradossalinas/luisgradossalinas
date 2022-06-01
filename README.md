@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Work experience (last 5)
 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="15%" width="15%" >
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="10%" width="10%">
 Feb 2022 – Now | Peru<br>
 Data Management Lead
 
@@ -31,7 +31,7 @@ Data Management Lead
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="40%" width="40%" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="40%" width="40%">
 Feb 2021 – Jan 2022 | USA / Mexico<br>
 Data Architect Senior (Globant)
 
@@ -60,7 +60,7 @@ Chapter Lead Big Data
 
 ---
 
-<img src="https://mma.prnewswire.com/media/1770828/Qualifacts_Logo_Registered_RGB_PrimaryColor_Logo.jpg?p=facebook" height="30%" width="30%" >
+<img src="https://mma.prnewswire.com/media/1770828/Qualifacts_Logo_Registered_RGB_PrimaryColor_Logo.jpg?p=facebook" height="30%" width="30%">
 
 Jan 2019 – Jun 2020 | USA<br>
 Senior Data Engineer
@@ -74,7 +74,7 @@ Senior Data Engineer
 
 ---
 
-<img src="https://pbs.twimg.com/media/CUwEYH9WUAEtJGa?format=png&name=large" height="30%" width="30%" >
+<img src="https://pbs.twimg.com/media/CUwEYH9WUAEtJGa?format=png&name=large" height="30%" width="30%">
 
 Sep 2018 – Jan 2019 | Peru<br>
 Senior Data Engineer
