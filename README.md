@@ -21,6 +21,18 @@ Here are some ideas to get you started:
 
 # Work experience
 
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="40%" width="40%" >
+Feb 2022 – Now | Peru
+Data Management Lead
+
+- Establish Data Strategy
+- Build Data Governance Program
+- Do assesment Data Management
+- POC tecnologies of Data & Analytics
+- Sensibilization Data Literacy
+
+---
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MetLife_logo.svg/2560px-MetLife_logo.svg.png" height="40%" width="40%" >
 Feb 2021 – Jan 2022 | EEUU / Mexico
 Data Architect Senior
@@ -42,9 +54,10 @@ Chapter Lead Big Data
 
 - Implementation Serverless Data Lake Framework - SDLF (https://catalog.us-east-1.prod.workshops.aws/workshops/501cb14c-91b3-455c-a2a9-d0a21ce68114/en-US/20-production/100-multi-env)
 - Pipeline DataOps and MLOps
-- Dataform (Process ELT)
+- POCs tools Data & Analytics
 - Technologies : 
-    * AWS : S3, Elastic Kubernetes Services (EKS), Fargate, DynamoDB, Step Functions, Lambda, 
-    * Azure : Azure DevOps (Repos, Pipelines, CICD)
+    * AWS : S3, Elastic Kubernetes Services (EKS), Fargate, DynamoDB, Step Functions, Lambda, SageMaker, CodeCommit, Code Build, Code Deploy, Code Pipeline, CloudFormation
+    * Azure : Functions, Table Storage, Blob Storage, Speech to text
+    * Open Source : Spark, Python, Scala
 
 ---
