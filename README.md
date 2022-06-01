@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Work experience
+# Work experience (last 5)
 
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="20%" width="20%" >
 Feb 2022 – Now | Peru<br>
