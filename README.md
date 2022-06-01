@@ -100,4 +100,5 @@ Senior Data Engineer
 
 Medium
 
-(https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
+
+[(https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium01.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
