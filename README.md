@@ -1,7 +1,9 @@
-<!--![Language](https://alfabetizaciondigital.fundacionesplai.org/pluginfile.php/9523/course/section/1596/python-logo-master-v3-TM.png)-->
+<!--![Language](https://alfabetizaciondigital.fundacionesplai.org/pluginfile.php/9523/course/section/1596/python-logo-master-v3-TM.png)
 ![Cloud](https://img.shields.io/badge/Cloud-Aws%20%2F%20Gcp-informational?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Airflow%20%2F%20Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
 ![Interests](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Kafka%20%2F%20Jenkins-orange?style=for-the-badge)
+-->
+
 <!--
 **luisgradossalinas/luisgradossalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -89,7 +91,7 @@ Senior Data Engineer
 
 --- 
 
-## Workshops
+## My workshops
 
 - Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/twitch-hudi.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
@@ -101,6 +103,6 @@ https://www.twitch.tv/videos/1065234210
 
 ## Post in Medium
 
-[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium-hudi.png)](https://medium.com/@luisgradossalinas/data-lakehouse-con-apache-hudi-4627503c26dd
+[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium-hudi.png)](https://medium.com/@luisgradossalinas/data-lakehouse-con-apache-hudi-4627503c26dd)
 
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium01.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
