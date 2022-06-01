@@ -91,13 +91,16 @@ Senior Data Engineer
 
 --- 
 
-# My workshops
+# My online workshops
 
 - Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/twitch-hudi.png)](https://www.twitch.tv/videos/1065234210)
 
 - Implementando una arquitectura IoT y Big Data con Sigfox y Google Cloud (Pub Sub, BigQuery, Cloud Functions, Data Store)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/fb-gcp-iot.png)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2829350304049183)
+
+- Implementando una arquitectura IoT y Big Data con Sigfox y Azure (Event Hubs, Azure IoT Hub, CosmosDB, ADLS Gen2, Azure Functions)
+[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/teca-azure-iot.png)](https://www.youtube.com/watch?v=AjB08kUhbOM)
 
 ---
 
