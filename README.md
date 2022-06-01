@@ -92,15 +92,15 @@ Senior Data Engineer
 ## Workshops
 
 - Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
+[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/twitch-hudi.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
+https://www.twitch.tv/videos/1065234210
+
 - IoT
 - Free
 - Azure
 
-## Post
+## Post in Medium
 
-Medium
-
-[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium-hudi.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
-https://www.twitch.tv/videos/1065234210 https://medium.com/@luisgradossalinas/data-lakehouse-con-apache-hudi-4627503c26dd
+[![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium-hudi.png)](https://medium.com/@luisgradossalinas/data-lakehouse-con-apache-hudi-4627503c26dd
 
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/medium01.png)](https://medium.com/@luisgradossalinas/construyendo-un-flujo-de-datos-en-tiempo-real-con-kinesis-data-streams-lambda-dynamodb-y-sns-e46398f985c9)
