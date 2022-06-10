@@ -102,6 +102,9 @@ Senior Data Engineer
 - Implementando una arquitectura IoT y Big Data con Sigfox y Azure (Event Hubs, Azure IoT Hub, CosmosDB, ADLS Gen2, Azure Functions)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/teca-azure-iot.png)](https://www.youtube.com/watch?v=AjB08kUhbOM)
 
+- Monitoreo de dispositivos IoT en tiempo real en AWS con Alexa, Raspberry Pi y sensores de humedad y temperatura
+![aws](https://user-images.githubusercontent.com/2066453/173079819-92120092-cfb6-4059-a54a-94c1f29a49ff.png)
+
 ---
 
 # Post in Medium
