@@ -93,6 +93,9 @@ Senior Data Engineer
 
 # My online workshops
 
+- Conociendo el Modern Data Stack
+[![aws](https://user-images.githubusercontent.com/2066453/178123718-5cb6f8fe-1d02-463e-b368-1191f90df267.png)](https://youtu.be/SvgMj2wpVq4?t=326)
+
 - Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/twitch-hudi.png)](https://www.twitch.tv/videos/1065234210)
 
