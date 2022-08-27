@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 Feb 2022 – Now | Peru<br>
 Data Management Lead
 
+- Provide training to C Level, Business Managers on the importance of Data Management, Data Governance and Data Quality, Data Literacy.
+- Conduct a Data Management Maturity Assessment (DMMA).
 - Establish Data Strategy
 - Build Data Governance Program
-- Do assesment Data Management
-- POC tecnologies of Data & Analytics
-- Sensibilization Data Literacy
+- Evaluate Data Governance tools before implementation.
+- Definition of scalable data architectures.
+- Creation of formats (policies, standards) for the data governance program.
+- Proofs of concept of data integration technologies, data transformation, data orchestation, data catalog, data integration, data quality, data observability.
 
 ---
 
