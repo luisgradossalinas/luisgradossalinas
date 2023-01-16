@@ -91,6 +91,9 @@ Senior Data Engineer
 
 # My online workshops
 
+- Ingeniería analítica en Google Cloud con Dataform
+[![aws](https://user-images.githubusercontent.com/2066453/212742029-34b63437-5384-41b5-9190-cecc0acfeb10.jpeg)](https://www.youtube.com/watch?v=oClja1BZGm8)
+
 - Conociendo el Modern Data Stack
 [![aws](https://user-images.githubusercontent.com/2066453/178123718-5cb6f8fe-1d02-463e-b368-1191f90df267.png)](https://youtu.be/SvgMj2wpVq4?t=326)
 
