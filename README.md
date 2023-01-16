@@ -91,27 +91,27 @@ Senior Data Engineer
 
 # My online workshops
 
-- Ingeniería analítica en Google Cloud con Dataform
+## Ingeniería analítica en Google Cloud con Dataform
 [![aws](https://user-images.githubusercontent.com/2066453/212742029-34b63437-5384-41b5-9190-cecc0acfeb10.jpeg)](https://www.youtube.com/watch?v=oClja1BZGm8)
 
-- Conociendo el Modern Data Stack
+## Conociendo el Modern Data Stack
 [![aws](https://user-images.githubusercontent.com/2066453/178123718-5cb6f8fe-1d02-463e-b368-1191f90df267.png)](https://youtu.be/SvgMj2wpVq4?t=326)
 
 [![aws](https://user-images.githubusercontent.com/2066453/178123748-bf536b8a-fa94-4d28-acb1-99deec8ac8e3.png)](https://youtu.be/SvgMj2wpVq4?t=326)
 
-- Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
+## Implementando un Data Lakehouse con Apache Hudi en AWS (S3, EMR, Lambda)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/twitch-hudi.png)](https://www.twitch.tv/videos/1065234210)
 
-- Implementando una arquitectura IoT y Big Data con Sigfox y Google Cloud (Pub Sub, BigQuery, Cloud Functions, Data Store)
+## Implementando una arquitectura IoT y Big Data con Sigfox y Google Cloud (Pub Sub, BigQuery, Cloud Functions, Data Store)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/fb-gcp-iot.png)](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2829350304049183)
 
-- Implementando una arquitectura IoT y Big Data con Sigfox y Azure (Event Hubs, Azure IoT Hub, CosmosDB, ADLS Gen2, Azure Functions)
+## Implementando una arquitectura IoT y Big Data con Sigfox y Azure (Event Hubs, Azure IoT Hub, CosmosDB, ADLS Gen2, Azure Functions)
 [![aws](https://github.com/luisgradossalinas/luisgradossalinas/blob/main/teca-azure-iot.png)](https://www.youtube.com/watch?v=AjB08kUhbOM)
 
-- Alexa Skills para orquestas trabajos de Glue Databrew con Step Functions
+## Alexa Skills para orquestas trabajos de Glue Databrew con Step Functions
 [![aws](https://user-images.githubusercontent.com/2066453/173085176-8281ef24-cbeb-434c-aa38-e66b7c6dc01a.png)](https://www.twitch.tv/videos/892571096?filter=highlights&sort=time)
 
-- Monitoreo de dispositivos IoT en tiempo real en AWS con Alexa, Raspberry Pi y sensores de humedad y temperatura
+## Monitoreo de dispositivos IoT en tiempo real en AWS con Alexa, Raspberry Pi y sensores de humedad y temperatura
 [![aws](https://user-images.githubusercontent.com/2066453/173079819-92120092-cfb6-4059-a54a-94c1f29a49ff.png)](https://www.twitch.tv/videos/749351049?filter=highlights&sort=time)
 
 ---
