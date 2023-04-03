@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Work experience (last 5)
 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="10%" width="10%">
+<img src="https://user-images.githubusercontent.com/2066453/229648350-93132bc9-88f6-4fde-88ad-86bd280cc14d.png" height="10%" width="10%">
 Mar 2022 – Now | Peru<br>
 Head of Data
 
