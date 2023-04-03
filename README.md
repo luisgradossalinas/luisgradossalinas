@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 # Work experience (last 5)
 
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="10%" width="10%">
-Feb 2022 – Now | Peru<br>
+Mar 2022 – Now | Peru<br>
+Head of Data
+
+- Provide training to C Level, Business Managers on the importance of Data Management, Data Governance and Data Quality, Data Literacy.
+
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQF2xCerB4_OPQ/company-logo_200_200/0/1618323063630?e=2147483647&v=beta&t=kjI6StZH7SKTP10orVPeOE-ZwILokqDqX88b469SmZU" height="10%" width="10%">
+Feb 2022 – Mar 2023 | Peru<br>
 Data Management Lead
 
 - Provide training to C Level, Business Managers on the importance of Data Management, Data Governance and Data Quality, Data Literacy.
