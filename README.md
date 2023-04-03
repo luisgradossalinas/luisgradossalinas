@@ -26,6 +26,8 @@ Head of Data
 Feb 2022 – Mar 2023 | Peru<br>
 Data Management Lead
 
+---
+
 - Provide training to C Level, Business Managers on the importance of Data Management, Data Governance and Data Quality, Data Literacy.
 - Conduct a Data Management Maturity Assessment (DMMA).
 - Establish Data Strategy
