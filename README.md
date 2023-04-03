@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Work experience (last 5)
+# Work experience (last 6)
 
 <img src="https://user-images.githubusercontent.com/2066453/229648350-93132bc9-88f6-4fde-88ad-86bd280cc14d.png" height="10%" width="10%">
 Mar 2022 – Now | Peru<br>
 Head of Data
 
-- Provide training to C Level, Business Managers on the importance of Data Management, Data Governance and Data Quality, Data Literacy.
+- .
 
 ---
 
