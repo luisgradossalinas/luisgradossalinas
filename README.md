@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 Mar 2023 – Now | Peru<br>
 Head of Data
 
-- .
+- Definition, planning and execution of the Generative AI strategy in the company. Since the last Q of 2023, we have started developing Generative AI solutions. Advanced technologies such as Azure OpenAI, Copilot Studio, Microsoft Teams, AI Search, App Services, Blob Storage, Streamlit, LangChain, LangSmith and Azure DevOps are used, marking a milestone in the company's technological history.
+- The benefited areas range from: Human resources, logistics, IT, legal, environment, occupational health and safety to UM, maintenance, metallurgy.
+- Training on Data, Analytics and GenAI topics for the company's collaborators.
 
 ---
 
